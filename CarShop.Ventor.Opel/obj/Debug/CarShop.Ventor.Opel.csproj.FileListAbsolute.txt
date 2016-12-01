@@ -1,0 +1,5 @@
+C:\Users\liche\Documents\Visual Studio 2015\Projects\CarShop\Build\CarShop.Ventor.Opel.dll
+C:\Users\liche\Documents\Visual Studio 2015\Projects\CarShop\Build\CarShop.Ventor.Opel.pdb
+C:\Users\liche\Documents\Visual Studio 2015\Projects\CarShop\CarShop.Ventor.Opel\obj\Debug\CarShop.Ventor.Opel.csprojResolveAssemblyReference.cache
+C:\Users\liche\Documents\Visual Studio 2015\Projects\CarShop\CarShop.Ventor.Opel\obj\Debug\CarShop.Ventor.Opel.dll
+C:\Users\liche\Documents\Visual Studio 2015\Projects\CarShop\CarShop.Ventor.Opel\obj\Debug\CarShop.Ventor.Opel.pdb

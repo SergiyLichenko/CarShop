@@ -1,0 +1,5 @@
+C:\Users\liche\Documents\Visual Studio 2015\Projects\CarShop\Build\Mercedes.dll
+C:\Users\liche\Documents\Visual Studio 2015\Projects\CarShop\Build\Mercedes.pdb
+C:\Users\liche\Documents\Visual Studio 2015\Projects\CarShop\Mercedes\obj\Debug\Mercedes.dll
+C:\Users\liche\Documents\Visual Studio 2015\Projects\CarShop\Mercedes\obj\Debug\Mercedes.pdb
+C:\Users\liche\Documents\Visual Studio 2015\Projects\CarShop\Mercedes\obj\Debug\CarShop.Ventor.Mercedes.csprojResolveAssemblyReference.cache

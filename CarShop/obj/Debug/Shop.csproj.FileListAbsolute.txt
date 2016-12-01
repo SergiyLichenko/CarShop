@@ -1,0 +1,21 @@
+c:\users\liche\documents\visual studio 2015\Projects\CarShop\CarShop\bin\Debug\CarShop.exe.config
+c:\users\liche\documents\visual studio 2015\Projects\CarShop\CarShop\bin\Debug\CarShop.exe
+c:\users\liche\documents\visual studio 2015\Projects\CarShop\CarShop\bin\Debug\CarShop.pdb
+c:\users\liche\documents\visual studio 2015\Projects\CarShop\CarShop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+c:\users\liche\documents\visual studio 2015\Projects\CarShop\CarShop\obj\Debug\CarShop.Shop.resources
+c:\users\liche\documents\visual studio 2015\Projects\CarShop\CarShop\obj\Debug\CarShop.Properties.Resources.resources
+c:\users\liche\documents\visual studio 2015\Projects\CarShop\CarShop\obj\Debug\Shop.csproj.GenerateResource.Cache
+c:\users\liche\documents\visual studio 2015\Projects\CarShop\CarShop\obj\Debug\CarShop.exe
+c:\users\liche\documents\visual studio 2015\Projects\CarShop\CarShop\obj\Debug\CarShop.pdb
+c:\users\liche\documents\visual studio 2015\Projects\CarShop\Build\CarShop.exe.config
+c:\users\liche\documents\visual studio 2015\Projects\CarShop\Build\CarShop.exe
+c:\users\liche\documents\visual studio 2015\Projects\CarShop\Build\CarShop.pdb
+F:\Projects\CarShop\Build\CarShop.exe.config
+F:\Projects\CarShop\CarShop\obj\Debug\CarShop.exe
+F:\Projects\CarShop\CarShop\obj\Debug\CarShop.pdb
+F:\Projects\CarShop\Build\CarShop.exe
+F:\Projects\CarShop\Build\CarShop.pdb
+F:\Projects\CarShop\CarShop\obj\Debug\Shop.csprojResolveAssemblyReference.cache
+F:\Projects\CarShop\CarShop\obj\Debug\CarShop.Shop.resources
+F:\Projects\CarShop\CarShop\obj\Debug\CarShop.Properties.Resources.resources
+F:\Projects\CarShop\CarShop\obj\Debug\Shop.csproj.GenerateResource.Cache

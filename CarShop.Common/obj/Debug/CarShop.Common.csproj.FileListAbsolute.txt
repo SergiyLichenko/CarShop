@@ -1,0 +1,10 @@
+c:\Users\liche\documents\visual studio 2015\Projects\CarShop\Build\CarShop.Common.dll
+c:\Users\liche\documents\visual studio 2015\Projects\CarShop\Build\CarShop.Common.pdb
+c:\Users\liche\documents\visual studio 2015\Projects\CarShop\CarShop.Common\obj\Debug\CarShop.Common.csprojResolveAssemblyReference.cache
+c:\Users\liche\documents\visual studio 2015\Projects\CarShop\CarShop.Common\obj\Debug\CarShop.Common.dll
+c:\Users\liche\documents\visual studio 2015\Projects\CarShop\CarShop.Common\obj\Debug\CarShop.Common.pdb
+F:\Projects\CarShop\Build\CarShop.Common.dll
+F:\Projects\CarShop\Build\CarShop.Common.pdb
+F:\Projects\CarShop\CarShop.Common\obj\Debug\CarShop.Common.csprojResolveAssemblyReference.cache
+F:\Projects\CarShop\CarShop.Common\obj\Debug\CarShop.Common.dll
+F:\Projects\CarShop\CarShop.Common\obj\Debug\CarShop.Common.pdb
