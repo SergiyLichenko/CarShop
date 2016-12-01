@@ -1,0 +1,5 @@
+C:\Users\liche\Documents\Visual Studio 2015\Projects\CarShop\Build\CarShop.Model.Omega.dll
+C:\Users\liche\Documents\Visual Studio 2015\Projects\CarShop\Build\CarShop.Model.Omega.pdb
+C:\Users\liche\Documents\Visual Studio 2015\Projects\CarShop\CarShop.Model.Omega\obj\Debug\CarShop.Model.Omega.csprojResolveAssemblyReference.cache
+C:\Users\liche\Documents\Visual Studio 2015\Projects\CarShop\CarShop.Model.Omega\obj\Debug\CarShop.Model.Omega.dll
+C:\Users\liche\Documents\Visual Studio 2015\Projects\CarShop\CarShop.Model.Omega\obj\Debug\CarShop.Model.Omega.pdb

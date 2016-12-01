@@ -1,0 +1,5 @@
+C:\Users\liche\Documents\Visual Studio 2015\Projects\CarShop\Build\CarShop.Model.Cadet.dll
+C:\Users\liche\Documents\Visual Studio 2015\Projects\CarShop\Build\CarShop.Model.Cadet.pdb
+C:\Users\liche\Documents\Visual Studio 2015\Projects\CarShop\CarShop.Model.Cadet\obj\Debug\CarShop.Model.Cadet.csprojResolveAssemblyReference.cache
+C:\Users\liche\Documents\Visual Studio 2015\Projects\CarShop\CarShop.Model.Cadet\obj\Debug\CarShop.Model.Cadet.dll
+C:\Users\liche\Documents\Visual Studio 2015\Projects\CarShop\CarShop.Model.Cadet\obj\Debug\CarShop.Model.Cadet.pdb
